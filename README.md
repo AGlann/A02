@@ -46,6 +46,12 @@ How to Push Changes to Github
   1. Make some changes to file and then navigate to commit section
   2. Add comments and select commit and push (Make sure the changed is checked off)
   3. On the pop-up window press push
+
+How to Merge Changes
+  1. Inside WebStorm project on the top banner select master branch
+  2. Select update project or simply use ctrl+t
+  3. Select the merge option and press Ok
+     
      
      
     
